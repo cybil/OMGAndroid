@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">OMG Android</string>
+    <string name="hello_world">LIS SERVICES</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main_menu">MainMenuActivity</string>
+    <string name="title_activity_client">ClientActivity</string>
+    <string name="title_activity_client_detail">ClientDetailActivity</string>
+    <string name="client_name">ClientName</string>
+    <string name="client_address">ClientAddress</string>
+    <string name="client_city">ClientCity</string>
+    <string name="client_phone">ClientPhone</string>
+    <string name="client_walter">Walter</string>
+    <string name="title_activity_employee_sms">EmployeeSmsActivity</string>
+
+</resources>
